@@ -1,1 +1,1 @@
-local banned = true
+local banned = false
